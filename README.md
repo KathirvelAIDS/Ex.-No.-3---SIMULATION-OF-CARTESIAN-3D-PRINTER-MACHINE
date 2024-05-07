@@ -60,8 +60,18 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/KathirvelAIDS/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/94911373/23b77f58-4c60-4f8b-8474-9681108cd7c1)
 
+
+
+
+![image](https://github.com/KathirvelAIDS/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/94911373/d5549513-8bd7-4b71-9d3d-2ccff3069c94)
+
+
+![image](https://github.com/KathirvelAIDS/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/94911373/1ff96b79-985d-45fe-acc8-ad0fa1725553)
+
+
+### Name: KATHIRVEL A 
+### Register Number: 212221230047
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
